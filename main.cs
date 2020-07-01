@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics.Tracing;
 
-namespace ConsoleApp3
+namespace Lab3C
 {
     class Program
     {
